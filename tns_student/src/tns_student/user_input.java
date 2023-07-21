@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class user_input {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner in = new Scanner(System.in);
 		String str;
